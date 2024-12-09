@@ -3,7 +3,7 @@
 * Public (15 / 519)
 * Private (29 / 519)
   
-Models: 
+Models: timm - swinv2_large_window12to16_192to256.ms_in22k_ft_in1k
 
 Libraries
 - Pytorch
